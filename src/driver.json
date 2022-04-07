@@ -1,0 +1,17 @@
+[
+  {
+    "id" : 1,
+    "name" : "Ulan",
+    "truck" :null
+  },
+  {
+    "id" : 2,
+    "name" : "Azat",
+    "truck" :null
+  },
+  {
+    "id" : 3,
+    "name" : "Seit",
+    "truck" :null
+  }
+]
